@@ -5,12 +5,12 @@ OS: ................................. Windows 11
 IDE: ................................ VS Code
       
 Languages.Programming: ... JavaScript, TypeScript
-Languages.Computer: ...... HTML5, CSS3, SQL
+Languages.Computer: ...... HTML5, CSS, SQL
 Languages.Real: .......... Português, English (A2)
     
 Hobbies.Software: ........ Desenvolvimento Web
     
-Contact ----------------------------------------------
+Contact --------------------------------------------------
 LinkedIn: ............................. reuel-pombo
 Instagram: ........................... @reuelpombo
          
