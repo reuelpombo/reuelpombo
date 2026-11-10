@@ -64,7 +64,7 @@ Profile: .............................. @reuelpombo
 
 <hr>
 
-<h3 align="center">Meu contato:</h3>
+<h3 align="https://www.linkedin.com/in/reuel-pombo-b75859410/">Meu contato:</h3>
 
 <p align="center">
   <!-- Substitua 'seu-usuario-linkedin' pelo seu perfil do LinkedIn -->
