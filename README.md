@@ -67,7 +67,7 @@ Profile: .............................. @reuelpombo
 <h3 align="https://www.linkedin.com/in/reuel-pombo-b75859410/">Meu contato:</h3>
 
 <p align="center">
-  <!-- Substitua 'seu-usuario-linkedin' pelo seu perfil do LinkedIn -->
+  <!-- Substitua 'https://www.linkedin.com/in/reuel-pombo-b75859410/' pelo seu perfil do LinkedIn -->
   <a href="https://linkedin.com/in/seu-usuario-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
